@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<workflow>
-  <name>Copy Mail Message URL</name>
-  <version>1.0</version>
-  <bundle>com.webkenny.copymessageurl</bundle>
-  <updated>1418168579</updated>
-  <file>copy_mail_message_url.alfredworkflow</file>
-</workflow>
